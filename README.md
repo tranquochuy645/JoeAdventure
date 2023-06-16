@@ -1,3 +1,3 @@
 # JoeAdventureWebGL
-## a simple & dummy game made with unity
+## a simple 3D game made with unity
 ## demo webGL link: https://joethespeed.onrender.com/ 
